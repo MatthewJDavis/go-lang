@@ -5,7 +5,7 @@ import "fmt"
 func main() {
 	hello("Matt")
 	hello("Teamcity build! :D")
-	hello("webhook")
+	hello("webhook2")
 
 }
 
