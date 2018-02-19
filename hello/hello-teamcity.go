@@ -6,6 +6,7 @@ func main() {
 	hello("Matt")
 	hello("Teamcity build! :D")
 	hello("webhook")
+	hello("test me")
 
 }
 
