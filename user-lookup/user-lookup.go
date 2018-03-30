@@ -1,5 +1,6 @@
 package main
 
+//look up user details and export to JSON
 import (
 	"encoding/json"
 	"fmt"
