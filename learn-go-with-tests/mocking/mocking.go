@@ -7,6 +7,9 @@ import (
 	"time"
 )
 
+const finalWord = "Go!"
+const countdownStart = 3
+
 type Sleeper interface {
 	Sleep()
 }
