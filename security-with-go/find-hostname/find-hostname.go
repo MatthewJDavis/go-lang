@@ -17,7 +17,7 @@ func main() {
 
 	ip := net.ParseIP(arg)
 	if ip == nil {
-		log.Fatal("Vaild IP not detected. Value provided: " + arg)
+		log.Fatal("Valid IP not detected. Value provided: " + arg)
 	}
 
 	fmt.Println("Looking up hostnames for IP address: " + arg)
